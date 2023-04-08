@@ -1,0 +1,1 @@
+SELECT SUBSTR(email, 12) AS ExtractString FROM persons WHERE city = 'Seattle';
